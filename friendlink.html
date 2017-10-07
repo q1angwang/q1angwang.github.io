@@ -2,31 +2,35 @@
 <html>
 <head>
     <meta charset="utf-8">    
-    <meta name="viewport" content="width=device-width, inital-scale=1.0;"/>
+    <meta name="viewport" content="width=device-width, inital-scale=1;"/>
     <meta name="copyright" content="© http://www.qiangwang.site" />
     <link rel="icon" href="favicon.ico" />
     <title>Blog of wq</title>
     <style type="text/css">
+        body{font-size:150%;}
         li{float:left;margin:0px 20px;}
-        a:link {text-decoration: none}
-        a:visited {color: #000000}
-        a:hover {color: #0366D6}
+        a:link {text-decoration: none;color:#000;}
+        a:visited {color: #000;}
+        a:hover {color: #0366D6;}
+        .waitingForConnection {  animation: blinker 1s cubic-bezier(.5, 0, 1, 1) infinite alternate;}
+        @keyframes blinker { to { opacity: 0; } }
     </style>
 </head>
 <body>
     <h2>强王</h2>
-    <ul type="square" >
-        <li><a href="index.html">Home</a></li>
+    <ul type="square" style="margin:0;padding:0;">
+        <li><a href="index.html">About</a></li>
         <li><a href="http://qiangwang.site/blog">Blog</a></li>
         <li><a href="friendlink.html" style="color:#0366D6;">Friends</a  ></li>
     </ul>
     <br><hr>
-    <small><small>
+    <small><small><small>
         <i>Last updated: 2017-10-7.00:08</i> 
-    </small></small><br><br>
+    </small></small></small><br><br>
     <ul>
+        <li><a href="http://xdsec.club">xdsec</a></li><br><br>
         <li><a href="http://pupiles.com">pupiles</a></li><br><br>
-        <li><a href="http://xdsec.club">xdsec</a></li><br>
+        <li><a href="your site:"><span class="waitingForConnection">______</blink></a></li><br><br>
     </ul>
 </body>
 </html>

@@ -29,7 +29,8 @@ Xidian 2023
 1. ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***\
 Milcom 2022
 
-1. ***An Evolutionary Learning Approach towards the Open Challenge of IoT Device Identification.***\SecComm 2022
+1. ***An Evolutionary Learning Approach towards the Open Challenge of IoT Device Identification.***\
+2. SecComm 2022
 
 1. ***ProGraph: Robust Network Traffic Identification with Graph Propagation.***\
 ToN 2022

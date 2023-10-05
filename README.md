@@ -30,7 +30,7 @@ Xidian 2023
 Milcom 2022
 
 1. ***An Evolutionary Learning Approach towards the Open Challenge of IoT Device Identification.***\
-2. SecComm 2022
+SecComm 2022
 
 1. ***ProGraph: Robust Network Traffic Identification with Graph Propagation.***\
 ToN 2022

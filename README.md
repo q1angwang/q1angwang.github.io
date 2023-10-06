@@ -1,7 +1,7 @@
 # 强王
 
 ## About me
-I am a PhD student at IIE, CAS for Cybersecurity under the supervision of [**Feng liu**](https://fengliu.net.cn), [**Wen Wang**](http://www.sklois.cn/xwzx/kydt/201510/t20151013_311545.html). I obtained my bachelor degree in Information-Security from Xidian University.
+I am a PhD student at IIE, CAS for Cybersecurity under the supervision of [**Feng liu**](https://fengliu.net.cn). I obtained my bachelor degree in Information-Security from Xidian University.
 
 My research interest lies in Network Traffic Defense, with a focus on Red-team traffic and Exploit traffic.
 
@@ -13,6 +13,7 @@ Email: wangqiang3113#iie.ac.cn
 
 1. ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software***\
 Trustcom 2023
+<span class="badge badge-success">徽章</span>
 
 1. ***PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection.***\
 CCS 2023
@@ -69,7 +70,3 @@ ICCS 2021
 
 ## Misc
 I am in the <img src="./src/Polaris_logo.png" height="12" /> [Polaris-IIE team](https://polaris-iie.com/) and we are expecting more partner in Cyber-Threat-Detection [join us](https://polaris-iie.com/contact.html).
-
-* Contact us:\
-    [Polaris TEAM introduction](https://x.eqxiu.com/s/fDajQFgs)\
-    [Internship recruitment](https://www.freebuf.com/company-information/306360.html)

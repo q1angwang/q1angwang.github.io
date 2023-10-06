@@ -8,29 +8,29 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publications
 
-1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software***\
+1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software***
 
-1. [CCS 2023] ***PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection.***\
+1. [CCS 2023] ***PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection.***
 
-1. [TIFS 2023] ***The Prism: Guarding Connection Privacy by Defeating Temporal Network Traffic Analyzers.***\
+1. [TIFS 2023] ***The Prism: Guarding Connection Privacy by Defeating Temporal Network Traffic Analyzers.***
 
-1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***\
+1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***
 
-1. [Xidian 2023] ***Method on Encrypted Malicious Traffic Detection of Multi-view Based on Co-training.***\
+1. [Xidian 2023] ***Method on Encrypted Malicious Traffic Detection of Multi-view Based on Co-training.***
 
-1. [Milcom 2022] ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***\
+1. [Milcom 2022] ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***
 
-1. [SecureComm 2022] ***An Evolutionary Learning Approach towards the Open Challenge of IoT Device Identification.***\
+1. [SecureComm 2022] ***An Evolutionary Learning Approach towards the Open Challenge of IoT Device Identification.***
 
-1. [ToN 2022] ***ProGraph: Robust Network Traffic Identification with Graph Propagation.***\
+1. [ToN 2022] ***ProGraph: Robust Network Traffic Identification with Graph Propagation.***
 
-1. [CN 2022] ***Robust Network Traffic Identification with Graph Matching.***\
+1. [CN 2022] ***Robust Network Traffic Identification with Graph Matching.***
 
-1. [CNCERT 2022] ***Cryptocurrency Mining Traffic Detection Based on Private Communication Protocol Identification.***\
+1. [CNCERT 2022] ***Cryptocurrency Mining Traffic Detection Based on Private Communication Protocol Identification.***
 
-1. [SciSec 2021] ***Mining Trojan Detection Based on Multi-dimensional Static Features.***\
+1. [SciSec 2021] ***Mining Trojan Detection Based on Multi-dimensional Static Features.***
 
-1. [ICCS 2021] ***HSLF: HTTP Header Sequence based LSH fingerprints for Application Traffic Classification.***\
+1. [ICCS 2021] ***HSLF: HTTP Header Sequence based LSH fingerprints for Application Traffic Classification.***
 
 
 ## Project

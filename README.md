@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student at IIE, CAS for Cybersecurity under the supervision of Dr. [**Feng liu**](https://fengliu.net.cn). I obtained my bachelor degree in Information-Security from Xidian University. My research interest lies in Network Traffic Defense, with a focus on Network Behavior and Exploit.
+I am a PhD student at IIE, CAS for Cybersecurity under the supervision of Dr. [**LIU Feng**](https://fengliu.net.cn). I obtained my bachelor degree in Information-Security from Xidian University. My research interest lies in Network Traffic Defense, with a focus on Network Behavior and Exploit.
 
 Email: wangqiang3113#iie.ac.cn
 

@@ -9,7 +9,7 @@ Email: wangqiang3113#iie.ac.cn
 
 <p style="text-align: center;"><img src="src/WQ.jpg" width="366"></p>
 
-## Publication
+## Publications
 
 1. ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software***\
 Trustcom 2023
@@ -49,6 +49,7 @@ ICCS 2021
 
 
 ## Project
+
 * 2023 Network Security Observability with eBPF
 
 * 2023 Red Team Auto-Emulation Competition

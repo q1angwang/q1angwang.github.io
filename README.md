@@ -66,28 +66,6 @@ ICCS 2021
 * 2018-2019, In <img src="./src/xdsec-logo.png" height="12" /> [XDSEC](https://xdsec.org/), lead the student security research team on <img src="./src/xdsec-group.png" height="12" /> Wireless Network.
 
 
-## Interest
-
-1. 基于DPDK的漏洞流量检测过滤系统
-
-1. 基于负载级别图注意力网络的攻击流量分类方法和装置
-
-1. 基于头部向量嵌入的HTTP/HTTPS流量分类技术
-
-1. 基于缓冲区溢出漏洞利用模式的攻击流量检测方法
-
-1. 基于HTTP请求有效负载的漏洞攻击流量检测方法和系统
-
-1. 一种基于OpenWRT的插件化动态隐蔽加载系统及方法
-
-1. 一种环境自适应的无线信道接入隐匿方法
-
-1. 一种跨网段网络探测的系统与方法
-
-1. 一种隐蔽接入目标网络的系统及方法
-
-
-
 ## Misc
 I am in the <img src="./src/Polaris_logo.png" height="12" /> [Polaris-IIE team](https://polaris-iie.com/) and we are expecting more partner in Cyber-Threat-Detection [join us](https://polaris-iie.com/contact.html).
 

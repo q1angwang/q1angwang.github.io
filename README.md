@@ -13,7 +13,8 @@ Email: wangqiang3113#iie.ac.cn
 
 1. ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software***\
 Trustcom 2023
-<span class="badge badge-success">徽章</span>
+<table><tr><td bgcolor=#FF00FF>Trustcom</td></tr></table>
+
 
 1. ***PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection.***\
 CCS 2023

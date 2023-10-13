@@ -6,6 +6,10 @@ Email: wangqiang3113#iie.ac.cn
 
 <p style="text-align: center;"><img src="src/WQ.jpg" width="366"></p>
 
+## D7E1293
+
+**基于分形的平行空间行为感知** （面向合作fanhua）
+
 ## Publications
 
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***

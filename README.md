@@ -4,9 +4,6 @@ I am a PhD student at IIE, CAS for Cybersecurity under the supervision of Dr. [*
 
 Email: wangqiang3113#iie.ac.cn
 
-## D7E1293
-
-**基于分形的平行空间行为感知** （面向合作___）
 
 
 

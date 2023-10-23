@@ -21,7 +21,7 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [CCS 2023] ***PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection.***
 
-1. [TIFS 2023] ***The Prism: Guarding Connection Privacy by Defeating Temporal Network Traffic Analyzers.***
+1. [TIFS 2023] ***Prism: Real-Time Privacy Protection Against Temporal Network Traffic Analyzers.***
 
 1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***
 

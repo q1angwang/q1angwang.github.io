@@ -19,7 +19,7 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Incorporating of Protocol Details.***
 
-1.[Info_Sec and Comm_Pri 2023] ***Network Traffic Recognition of Telegram based on LightGBM.***
+1. [Info_Sec and Comm_Pri 2023] ***Telegram Network Traffic Recognition based on LightGBM.***
 
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***
 

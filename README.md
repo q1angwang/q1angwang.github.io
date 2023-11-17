@@ -17,6 +17,10 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publications
 
+1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Incorporating of Protocol Details.***
+
+1.[Info_Sec and Comm_Pri 2023] ***Network Traffic Recognition of Telegram based on LightGBM.***
+
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***
 
 1. [CCS 2023] ***PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection.***
@@ -46,13 +50,13 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* 2023 Network Security Observability with eBPF.
+* 2023 Network Security Observability with eBPF(linux) & HOOK(win).
 
 * 2023 Red Team Auto-Emulation Competition.
 
 * 2022 Cobalt Strike Network Traffic Analysis.
     
-* 2021 Datacon: Traffic Detection Track.
+* 2021 Datacon: Malware Traffic Detection Track.
   
 * 2021 AI based Benign Network Traffic filter.
         

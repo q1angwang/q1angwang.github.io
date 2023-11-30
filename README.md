@@ -21,7 +21,7 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***
 
-1. [XD 2023] ***Method on Encrypted Malicious Traffic Detection of Multi-view Based on Co-training.***
+1. [XiDian 2023] ***Method on Encrypted Malicious Traffic Detection of Multi-view Based on Co-training.***
 
 1. [Milcom 2022] ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***
 
@@ -42,19 +42,19 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **2023** Network Security Observability with eBPF(linux) & HOOK(win).
+* **2023**: Network Security Observability with eBPF.
 
-* **2023** Red Team Auto-Emulation Competition.
+* **2023**: Automatic Red Team Emulation Competition.
 
-* **2022** Cobalt Strike Network Traffic Analysis.
+* **2022**: Cobalt Strike Network Traffic analysis.
     
-* **2021** Datacon: Malware Traffic Detection Track.
+* **2021**: Datacon: Malware Traffic Detection track.
   
-* **2021** AI based Benign Network Traffic filter.
+* **2021**: AI based Benign Network Traffic filter.
         
-* **2020** Encrypt Malicious Traffic analyse.
+* **2020**: Datacon: Encrypt Malicious Traffic analysis.
   
-* **2019** ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
+* **2019**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
     
 * 2018-2019, in <img src="./src/xdsec-logo.png" height="12" /> [XDSEC](https://xdsec.org/), lead the student security research team on <img src="./src/xdsec-group.png" height="12" /> Wireless Network.
 

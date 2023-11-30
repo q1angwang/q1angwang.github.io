@@ -7,14 +7,6 @@ Email: wangqiang3113#iie.ac.cn
 <p style="text-align: center;"><img src="src/WQ.jpg" width="366"></p>
 
 
-## D7E1293
-
-**My Theses：《基于分形的平行空间行为感知》——推动分形理念在网络防御侧的落地**
-
-**高级威胁对抗中的网络流智能检测技术研究**
-
-**基于进程行为投影测量技术的加密流量分析方法**
-
 ## Publications
 
 1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Incorporating of Protocol Details.***
@@ -50,19 +42,19 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* 2023 Network Security Observability with eBPF(linux) & HOOK(win).
+* **2023** Network Security Observability with eBPF(linux) & HOOK(win).
 
-* 2023 Red Team Auto-Emulation Competition.
+* **2023** Red Team Auto-Emulation Competition.
 
-* 2022 Cobalt Strike Network Traffic Analysis.
+* **2022** Cobalt Strike Network Traffic Analysis.
     
-* 2021 Datacon: Malware Traffic Detection Track.
+* **2021** Datacon: Malware Traffic Detection Track.
   
-* 2021 AI based Benign Network Traffic filter.
+* **2021** AI based Benign Network Traffic filter.
         
-* 2020 Encrypt Malicious Traffic analyse.
+* **2020** Encrypt Malicious Traffic analyse.
   
-* 2019 ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
+* **2019** ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
     
 * 2018-2019, in <img src="./src/xdsec-logo.png" height="12" /> [XDSEC](https://xdsec.org/), lead the student security research team on <img src="./src/xdsec-group.png" height="12" /> Wireless Network.
 

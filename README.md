@@ -59,5 +59,3 @@ Email: wangqiang3113#iie.ac.cn
 * **2019**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
 
 * **2018-2019**: Led the student security research team focusing on Wireless Networks at <img src="xdsec" height="12" /> [XDSEC](https://xdsec.org/).
-
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=KNdpHSZ6QIatfcz1&ck=KNdpHSZ6QIatfcz1"></script>

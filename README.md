@@ -7,7 +7,7 @@ Email: wangqiang3113#iie.ac.cn
 <p style="text-align: center;"><img src="src/WQ.jpg" width="366"></p>
 
 
-## Publications
+## Publication
 
 1. [Journal of CyberSec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior***
 
@@ -59,7 +59,3 @@ Email: wangqiang3113#iie.ac.cn
 * **2019**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
     
 * 2018-2019, in <img src="./src/xdsec-logo.png" height="12" /> [XDSEC](https://xdsec.org/), lead the student security research team on <img src="./src/xdsec-group.png" height="12" /> Wireless Network.
-
-
-## Misc
-I am in the <img src="./src/Polaris_logo.png" height="12" /> [Polaris-IIE team](https://polaris-iie.com/) and we are expecting more partner in Cyber-Threat-Detection [join us](https://polaris-iie.com/contact.html).

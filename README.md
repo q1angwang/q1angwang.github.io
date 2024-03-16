@@ -44,7 +44,7 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **2023**: Network Security Observability with HOOK.
+* **2023**: Network Security Observability with HOOK. 
 
 * **2023**: Automatic Red Team Emulation Competition.
 
@@ -57,5 +57,5 @@ Email: wangqiang3113#iie.ac.cn
 * **2020**: Datacon: Encrypt Malicious Traffic analysis.
   
 * **2019**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
-    
-* 2018-2019, in <img src="./src/xdsec-logo.png" height="12" /> [XDSEC](https://xdsec.org/), lead the student security research team on <img src="./src/xdsec-group.png" height="12" /> Wireless Network.
+
+* **2018-2019**: Led the student security research team focusing on Wireless Networks at <img src="xdsec" height="12" /> [XDSEC](https://xdsec.org/).

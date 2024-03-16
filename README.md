@@ -4,7 +4,7 @@ I am a PhD student at IIE, CAS for Cybersecurity under the supervision of Dr. [*
 
 Email: wangqiang3113#iie.ac.cn
 
-<p style="text-align: center;"><img src="src/WQ.jpg" width="366"></p>
+<p style="text-align: center;"><img src="WQ" width="366"></p>
 
 
 ## Publication

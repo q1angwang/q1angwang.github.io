@@ -9,9 +9,13 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publications
 
-1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Incorporating of Protocol Details.***
+TOR trafhc recognition method integrating protocol information fusion
 
-1. [Info_Sec and Comm_Pri 2023] ***Telegram Network Traffic Recognition based on LightGBM.***
+1. [JournalofCybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior***
+
+1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Integrating Protocol Information.***
+
+1. [InfoSec & CommPri 2023] ***Telegram Network Traffic Recognition based on LightGBM.***
 
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***
 
@@ -42,7 +46,7 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **2023**: Network Security Observability with eBPF.
+* **2023**: Network Security Observability with HOOK.
 
 * **2023**: Automatic Red Team Emulation Competition.
 

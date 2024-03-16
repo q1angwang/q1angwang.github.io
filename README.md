@@ -9,9 +9,7 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publications
 
-TOR trafhc recognition method integrating protocol information fusion
-
-1. [JournalofCybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior***
+1. [Journal of CyberSec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior***
 
 1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Integrating Protocol Information.***
 

@@ -9,7 +9,7 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publication
 
-1. [网络空间安全科学学报 2024] ***加密流量实体行为内视.**
+1. [网络空间安全科学学报 2024] ***加密流量实体行为内视.***
 
 1. [网络安全与数据治理 2023] ***融合协议信息的TOR匿名网络流量识别方法.***
 
@@ -23,9 +23,9 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***
 
-1. [西安电子科技大学学报 2023] ***结合协同训练的多视图加密恶意流量检测方法***
+1. [西安电子科技大学学报 2023] ***结合协同训练的多视图加密恶意流量检测方法.***
 
-1. [CNCERT学术年会 2022] ***基于自动化私有协议识别的挖矿流量检测***
+1. [CNCERT学术年会 2022] ***基于自动化私有协议识别的挖矿流量检测.***
 
 1. [Milcom 2022] ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***
 
@@ -44,21 +44,23 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **2023**: Network Security Observability. 
+* **2024** [Competition]: Intelligent Classification of High-speed Network Traffic.
 
-* **2023**: Automatic Red Team Emulation Competition.
+* **2023** [Project]: Network Traffic Security Observability. 
 
-* **2022**: Cobalt Strike Network Traffic analysis.
+* **2023** [Competition]: Breach and Attack Simulation Emulation.
+
+* **2022** [Datacon]: Cobalt-Strike Network Traffic analysis.
     
-* **2021**: Datacon: Malware Traffic Detection track.
+* **2021** [Datacon]: Malware Traffic Detection track.
   
-* **2021**: AI based Benign Network Traffic filter.
+* **2021** [Competition]: AI-driven Benign Traffic Filter.
         
-* **2020**: Datacon: Encrypt Malicious Traffic analysis.
+* **2020** [Datacon]: Encrypt Malware Traffic Analysis.
   
-* **2019**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
+* **2019** [Project]: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
 
-* **2018-2019**: Led the student security research team focusing on Wireless Networks at <img src="xdsec" height="12" /> [XDSEC](https://xdsec.org/).
+* **2018-2019**: Headed the student-led security research group, with a focus on Wireless Networks, at <img src="xdsec" height="12" /> [XDSEC](https://xdsec.org/).
 
 
 <script>

@@ -9,11 +9,11 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publication
 
-1. [Journal of CyberSec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior***
+1. [网络空间安全科学学报 2024] ***加密流量实体行为内视.**
 
-1. [CyberSec & DataGov 2023] ***Identifying Tor Anonymous Traffic using the Integrating Protocol Information.***
+1. [网络安全与数据治理 2023] ***融合协议信息的TOR匿名网络流量识别方法.***
 
-1. [InfoSec & CommPri 2023] ***Telegram Network Traffic Recognition based on LightGBM.***
+1. [信息安全与通信保 2023] ***基于LightGBM的Telegram流量识别研究.***
 
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***
 
@@ -23,7 +23,9 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***
 
-1. [XiDian 2023] ***Method on Encrypted Malicious Traffic Detection of Multi-view Based on Co-training.***
+1. [西安电子科技大学学报 2023] ***结合协同训练的多视图加密恶意流量检测方法***
+
+1. [CNCERT学术年会 2022] ***基于自动化私有协议识别的挖矿流量检测***
 
 1. [Milcom 2022] ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***
 
@@ -34,8 +36,6 @@ Email: wangqiang3113#iie.ac.cn
 1. [HPCC2022] ***A Glimpse of the Whole: Detecting Few-Shot Android Malware Encrypted Network Traffic***
 
 1. [CN 2022] ***Robust Network Traffic Identification with Graph Matching.***
-
-1. [CNCERT 2022] ***Cryptocurrency Mining Traffic Detection Based on Private Communication Protocol Identification.***
 
 1. [SciSec 2021] ***Mining Trojan Detection Based on Multi-dimensional Static Features.***
 
@@ -73,4 +73,3 @@ Email: wangqiang3113#iie.ac.cn
         document.head.appendChild(script);
     });
 </script>
-

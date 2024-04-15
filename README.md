@@ -1,8 +1,3 @@
-<head> 
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"KP8tb6rXLVA4faqj",ck:"KP8tb6rXLVA4faqj",autoTrack:true})</script>
-</head>
-
 ## About me
 
 I am a PhD student at IIE, CAS for Cybersecurity under the supervision of Dr. [**LIU Feng**](https://fengliu.net.cn). I obtained my bachelor degree in Information-Security from Xidian University. My research interest lies in Network Traffic Defense.
@@ -49,7 +44,7 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **2023**: Network Security Observability with HOOK. 
+* **2023**: Network Security Observability. 
 
 * **2023**: Automatic Red Team Emulation Competition.
 
@@ -64,3 +59,18 @@ Email: wangqiang3113#iie.ac.cn
 * **2019**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
 
 * **2018-2019**: Led the student security research team focusing on Wireless Networks at <img src="xdsec" height="12" /> [XDSEC](https://xdsec.org/).
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var script = document.createElement('script');
+        script.charset = 'UTF-8';
+        script.id = 'LA_COLLECT';
+        script.src = '//sdk.51.la/js-sdk-pro.min.js';
+        script.onload = function() {
+            LA.init({id:'KP8tb6rXLVA4faqj', ck:'KP8tb6rXLVA4faqj', autoTrack:true});
+        };
+        document.head.appendChild(script);
+    });
+</script>
+

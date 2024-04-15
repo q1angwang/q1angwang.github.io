@@ -10,12 +10,10 @@ Email: wangqiang3113#iie.ac.cn
 ## Service
 
 * Reviewer for Conferences:
-
-&nbsp;&nbsp;&nbsp;&nbsp; AsiaCCS, Milcom.
+    AsiaCCS, Milcom.
 
 * Reviewer for Journals:
-
-&nbsp;&nbsp;&nbsp;&nbsp; COMNET, High-confidence computing, Cybersecurity.
+    COMNET, High-confidence computing, Cybersecurity.
 
 
 ## Publication

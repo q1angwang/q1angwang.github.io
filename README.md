@@ -42,9 +42,9 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [ToN 2022] ***ProGraph: Robust Network Traffic Identification with Graph Propagation.***
 
-1. [HPCC2022] ***A Glimpse of the Whole: Detecting Few-Shot Android Malware Encrypted Network Traffic***
+1. [HPCC 2022] ***A Glimpse of the Whole: Detecting Few-Shot Android Malware Encrypted Network Traffic***
 
-1. [CN 2022] ***Robust Network Traffic Identification with Graph Matching.***
+1. [COMNET 2022] ***Robust Network Traffic Identification with Graph Matching.***
 
 1. [SciSec 2021] ***Mining Trojan Detection Based on Multi-dimensional Static Features.***
 

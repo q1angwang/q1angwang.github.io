@@ -4,7 +4,7 @@ I am a PhD student at IIE, CAS for Cybersecurity under the supervision of Dr. [*
 
 Email: wangqiang3113#iie.ac.cn
 
-<p style="text-align: center;"><img src="WQ" width="366"></p>
+<p style="text-align: center;"><img src="https://s21.ax1x.com/2024/04/18/pFzIlTI.jpg" width="366"></p>
 
 
 ## Service
@@ -18,11 +18,11 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publication
 
-1. [网络空间安全科学学报 2024] ***加密流量实体行为内视.***
+1. [JournalofCybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior.***
 
-1. [网络安全与数据治理 2023] ***融合协议信息的TOR匿名网络流量识别方法.***
+1. [Net&InfoSec 2023] ***TOR Anonymity Traffic recognition with integrating protocol information fusion.***
 
-1. [信息安全与通信保障 2023] ***基于LightGBM的Telegram流量识别研究.***
+1. [InfoSec & ComPri 2023] ***Research on Telegram Traffic Recognition Based on LightGBM.***
 
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***
 
@@ -32,9 +32,9 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [ICCS 2023] ***Payload Level Graph Attention Network for Web Attack Traffic Detection.***
 
-1. [西安电子科技大学学报 2023] ***结合协同训练的多视图加密恶意流量检测方法.***
+1. [XD 2023] ***Multi-view Encryption Malicious Trafic detection method combined with Co-training.***
 
-1. [CNCERT学术年会 2022] ***基于自动化私有协议识别的挖矿流量检测.***
+1. [CNCERT 2022] ***Cryptomining Traffic Detection Based on Automated Private Protocol Identification.***
 
 1. [Milcom 2022] ***High-Efficient and Few-shot Adaptive Encrypted Traffic Classification with Deep Tree.***
 
@@ -69,18 +69,5 @@ Email: wangqiang3113#iie.ac.cn
   
 * **2019 [Project]**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
 
-* **2018-2019**: Headed the student-led security research group, with a focus on Wireless Networks, at <img src="xdsec" height="12" /> [XDSEC](https://xdsec.org/).
-
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var script = document.createElement('script');
-        script.charset = 'UTF-8';
-        script.id = 'LA_COLLECT';
-        script.src = '//sdk.51.la/js-sdk-pro.min.js';
-        script.onload = function() {
-            LA.init({id:'KP8tb6rXLVA4faqj', ck:'KP8tb6rXLVA4faqj', autoTrack:true});
-        };
-        document.head.appendChild(script);
-    });
-</script>
+* **2018-2019**: Headed the student-led security research group, with a focus on Wireless Networks, at <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/).
+  

@@ -42,7 +42,7 @@ Email: wangqiang3113#iie.ac.cn
 
 1. [ToN 2022] ***ProGraph: Robust Network Traffic Identification with Graph Propagation.***
 
-1. [HPCC 2022] ***A Glimpse of the Whole: Detecting Few-Shot Android Malware Encrypted Network Traffic***
+1. [HPCC 2022] ***A Glimpse of the Whole: Detecting Few-Shot Android Malware Encrypted Network Traffic.***
 
 1. [COMNET 2022] ***Robust Network Traffic Identification with Graph Matching.***
 
@@ -67,7 +67,7 @@ Email: wangqiang3113#iie.ac.cn
         
 * **2020 [Datacon]**: Encrypt Malware Traffic Analysis.
   
-* **2019 [Project]**: ChainShield: Formal verification of Smart-Contract Vulnerability Mining.
+* **2019 [Project]**: ChainShield: Formal verification of Smart-Contract Vulnerability.
 
 * **2018-2019**: Headed the student-led security research group, with a focus on Wireless Networks, at <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/).
   

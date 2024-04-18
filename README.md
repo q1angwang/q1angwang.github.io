@@ -18,11 +18,11 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Publication
 
-1. [JournalofCybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior.***
+1. [Cybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior.***
 
 1. [Net&InfoSec 2023] ***TOR Anonymity Traffic recognition with integrating protocol information fusion.***
 
-1. [InfoSec & ComPri 2023] ***Research on Telegram Traffic Recognition Based on LightGBM.***
+1. [InfoSec&ComPri 2023] ***Research on Telegram Traffic Recognition Based on LightGBM.***
 
 1. [Trustcom 2023] ***Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software.***
 

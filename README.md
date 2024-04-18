@@ -13,7 +13,7 @@ Email: wangqiang3113#iie.ac.cn
     **AsiaCCS**, **Milcom**.
 
 * Reviewer for Journals:
-    **COMNET**, **High-confidence computing**, **Cybersecurity**.
+    **COMNET**, **HCC**, **CyberSecurity**, **TIFS**.
 
 
 ## Publication

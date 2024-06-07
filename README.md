@@ -15,10 +15,13 @@ Email: wangqiang3113#iie.ac.cn
 * Reviewer for Journals:
     **COMNET**, **HCC**, **CyberSecurity**, **TIFS**.
 
+* Led the <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/)'s Networks Lab. (2017-2019)
 
 ## Publication
 
 1. [Cybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior.***
+
+1. [Computers & Security 2024] ***Stories Behind Decisions: Towards Interpretable Malware Family Classification with Hierarchical Attention***
 
 1. [Net&InfoSec 2023] ***TOR Anonymity Traffic recognition with integrating protocol information fusion.***
 
@@ -51,23 +54,29 @@ Email: wangqiang3113#iie.ac.cn
 1. [ICCS 2021] ***HSLF: HTTP Header Sequence based LSH fingerprints for Application Traffic Classification.***
 
 
+## Competition
+
+* Intelligent Classification of High-speed Network Traffic: Top 10%. (2024.05)
+
+* QWB online CTF Track: Cyber Vanguard in 3045 teams. (2023.12)
+
+* QWB AI Challenge Track: 3rd in 20 teams. (Auto Cyber-Mapping Penetration track, 2023.04)
+
+* Datacon Security Challenge: Best Creative Award. (Malware Traffic Detection track, 2021.10)
+
+* College Service Outsourcing Innovation Competition: 1st Prize in 'AI-driven Benign Traffic Filter'. (2021.06)
+
+* Datacon Security Challenge: 3rd in 97 teams. (Encrypt Traffic Analysis track, 2020.08)
+
+* National Cybersecurity Competition for College: 1st Prize in 639 teams. (2019.07)
+
+
 ## Project
 
-* **2024 [Competition]**: Intelligent Classification of High-speed Network Traffic.
+* **[*]**: Network-Traffic Security Observability in Cooperative Context. 
 
-* **2023 [Project]**: Network Traffic Security Observability. 
+* **[2021***3101400]**: Threat Perception in Encrypted Traffic part (sub-topic).
 
-* **2023 [Competition]**: Breach and Attack Simulation Emulation.
+* **[2019-XD]**: ChainShield: Formal verification of Smart-Contract Vulnerability.
 
-* **2022 [Datacon]**: Cobalt-Strike Network Traffic analysis.
-    
-* **2021 [Datacon]**: Malware Traffic Detection track.
-  
-* **2021 [Competition]**: AI-driven Benign Traffic Filter.
-        
-* **2020 [Datacon]**: Encrypt Malware Traffic Analysis.
-  
-* **2019 [Project]**: ChainShield: Formal verification of Smart-Contract Vulnerability.
 
-* **2018-2019**: Headed the student-led security research group, with a focus on Wireless Networks, at <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/).
-  

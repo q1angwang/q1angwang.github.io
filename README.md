@@ -15,13 +15,13 @@ Email: wangqiang3113#iie.ac.cn
 * Reviewer for Journals:
     **COMNET**, **HCC**, **CyberSecurity**, **TIFS**.
 
-* Led the <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/)'s Networks Lab. (2017-2019)
+* Led the <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/)'s **Networks Lab**. (2017-2019)
 
 ## Publication
 
 1. [Cybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior.***
 
-1. [Computers & Security 2024] ***Stories Behind Decisions: Towards Interpretable Malware Family Classification with Hierarchical Attention***
+1. [Computers & Security 2024] ***Stories Behind Decisions: Towards Interpretable Malware Family Classification with Hierarchical Attention.***
 
 1. [Net&InfoSec 2023] ***TOR Anonymity Traffic recognition with integrating protocol information fusion.***
 
@@ -60,7 +60,7 @@ Email: wangqiang3113#iie.ac.cn
 
 * QWB online CTF Track: Cyber Vanguard in 3045 teams. (2023.12)
 
-* QWB AI Challenge Track: 3rd in 20 teams. (Auto Cyber-Mapping Penetration track, 2023.04)
+* QWB AI Challenge Track: 3rd Prize in 20 teams. (Auto Cyber-Mapping Penetration track, 2023.04)
 
 * Datacon Security Challenge: Best Creative Award. (Malware Traffic Detection track, 2021.10)
 
@@ -73,9 +73,9 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **[*]**: Network-Traffic Security Observability in Cooperative Context. 
+* **[2023-KY*]**: Network-Traffic Security Observability in Cooperative Context.
 
-* **[2021***3101400]**: Threat Perception in Encrypted Traffic part (sub-topic).
+* **[2021-YFB*]**: Threat Perception in Encrypted Traffic part (sub-topic).
 
 * **[2019-XD]**: ChainShield: Formal verification of Smart-Contract Vulnerability.
 

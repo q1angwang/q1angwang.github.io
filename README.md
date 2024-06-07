@@ -73,9 +73,9 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Project
 
-* **[2023-KY*]**: Network-Traffic Security Observability in Cooperative Context.
+* **[2023-KY\*]**: Network-Traffic Security Observability in Cooperative Context.
 
-* **[2021-YFB*]**: Threat Perception in Encrypted Traffic part (sub-topic).
+* **[2021-YFB\*]**: Threat Perception in Encrypted Traffic part (sub-topic).
 
 * **[2019-XD]**: ChainShield: Formal verification of Smart-Contract Vulnerability.
 

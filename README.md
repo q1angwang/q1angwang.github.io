@@ -13,7 +13,7 @@ Email: wangqiang3113#iie.ac.cn
     **AsiaCCS**, **Milcom**.
 
 * Reviewer for Journals:
-    **COMNET**, **HCC**, **CyberSecurity**, **TIFS**.
+    **Computer Networks**, **IoT**, **HCC**, **CyberSecurity**, **TIFS**.
 
 * Led the <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/)'s **Networks Lab**. (2017-2019)
 
@@ -55,6 +55,8 @@ Email: wangqiang3113#iie.ac.cn
 
 
 ## Competition
+
+* Taihu Innovation & Entrepreneurship Competition: 3rd Prize in 32 teams. (2024.06)
 
 * Intelligent Classification of High-speed Network Traffic: Top 10%. (2024.05)
 

@@ -60,7 +60,7 @@ Email: wangqiang3113#iie.ac.cn
 
 * Intelligent Classification of High-speed Network Traffic: Top 10%. (2024.05)
 
-* QWB online CTF Track: Cyber Vanguard in 3045 teams. (2023.12)
+* QWB online CTF Track: the Cyber Vanguard in 3045 teams. (2023.12)
 
 * QWB AI Challenge Track: 3rd Prize in 20 teams. (Auto Cyber-Mapping Penetration track, 2023.04)
 

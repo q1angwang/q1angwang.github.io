@@ -54,21 +54,21 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Competition
 
-* Taihu Innovation & Entrepreneurship Competition: **3rd Prize** in 32 teams. (2024.06)
+* Taihu Innovation & Entrepreneurship Competition: **3rd Prize in 32 teams**. (2024.06)
 
 * Intelligent Classification of High-speed Network Traffic: **Top 10%**. (2024.05)
 
-* QWB online CTF Track: **the Cyber Vanguard** in 3045 teams. (2023.12)
+* QWB online CTF Track: **the Cyber Vanguard in 3045 teams**. (2023.12)
 
-* QWB AI Challenge Track: **3rd Prize** in 20 teams. (Auto Cyber-Mapping Penetration track, 2023.04)
+* QWB AI Challenge Track: **3rd Prize in 20 teams**. (Auto Cyber-Mapping Penetration track, 2023.04)
 
 * Datacon Security Challenge: **Best Creative Award**. (Malware Traffic Detection track, 2021.10)
 
 * College Service Outsourcing Innovation Competition: **1st Prize** in 'AI-driven Benign Traffic Filter'. (2021.06)
 
-* Datacon Security Challenge: **3rd** in 97 teams. (Encrypt Traffic Analysis track, 2020.08)
+* Datacon Security Challenge: **3rd in 97 teams**. (Encrypt Traffic Analysis track, 2020.08)
 
-* National Cybersecurity Competition for College: **1st Prize** in 639 teams. (2019.07)
+* National Cybersecurity Competition for College: **1st Prize in 639 teams**. (2019.07)
 
 
 ## Project

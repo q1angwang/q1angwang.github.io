@@ -54,12 +54,6 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Competition
 
-* Taihu Innovation & Entrepreneurship Competition: **3rd Prize in 32 teams**. (2024.06)
-
-* Postgraduate Cybersecurity Innovation Competition: **1st Prize**. (2024.06)
-  
-* Intelligent Classification of High-speed Network Traffic: **Top 10%**. (2024.05)
-
 * QWB online CTF Track: **the Cyber Vanguard in 3045 teams**. (2023.12)
 
 * QWB AI Challenge Track: **3rd Prize in 20 teams**. (Auto Cyber-Mapping Penetration track, 2023.04)

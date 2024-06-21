@@ -11,7 +11,7 @@ Email: wangqiang3113#iie.ac.cn
 
 * Reviewer for Conferences: **AsiaCCS**, **Milcom**.
 
-* Reviewer for Journals: **TDSC**, **TIFS**, **Computer Networks**, **CyberSecurity**, **IoT**.
+* Reviewer for Journals: **IEEE-TDSC**, **IEEE-TIFS**, **Computer Networks**, **IEEE Internet of Things(IoT) Journal**.
 
 * Led the <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/)'s **Networks Lab**. (2017-2019)
 

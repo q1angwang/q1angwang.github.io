@@ -9,7 +9,7 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Service
 
-* Reviewer for Conferences: **AsiaCCS**, **Milcom**.
+* Reviewer for Conferences: **ACM-AsiaCCS**, **Milcom**.
 
 * Reviewer for Journals: **IEEE-TDSC**, **IEEE-TIFS**, **Computer Networks**, **IEEE Internet of Things(IoT) Journal**.
 

@@ -7,14 +7,6 @@ Email: wangqiang3113#iie.ac.cn
 <p style="text-align: center;"><img src="https://s21.ax1x.com/2024/04/18/pFzIlTI.jpg" width="366"></p>
 
 
-## Service
-
-* Reviewer for Conferences: **ACM-AsiaCCS**, **Milcom**.
-
-* Reviewer for Journals: **IEEE-TDSC**, **IEEE-TIFS**, **Computer Networks**, **IEEE Internet of Things(IoT) Journal**.
-
-* Led the <img src="https://s21.ax1x.com/2024/04/18/pFzIYp8.png" height="12" /> [XDSEC](https://xdsec.org/)'s **Networks Lab**. (2017-2019)
-
 ## Publication
 
 1. [Cybersec 2024] ***Insight of Encrypted Network Traffic within Process Entity Behavior.***
@@ -54,23 +46,23 @@ Email: wangqiang3113#iie.ac.cn
 
 ## Competition
 
-* QWB online CTF Track: **the Cyber Vanguard in 3045 teams**. (2023.12)
+* QWB online CTF Track: **the Cyber Vanguard**. (2023.12)
 
-* QWB AI Challenge Track: **3rd Prize in 20 teams**. (Auto Cyber-Mapping Penetration track, 2023.04)
+* QWB AI Challenge Track: **3rd Prize**. (Auto Cyber-Mapping Penetration track, 2023.04)
 
 * Datacon Security Challenge: **Best Creative Award**. (Malware Traffic Detection track, 2021.10)
 
 * College Service Outsourcing Innovation Competition: **1st Prize** in 'AI-driven Benign Traffic Filter'. (2021.06)
-
-* Datacon Security Challenge: **3rd in 97 teams**. (Encrypt Traffic Analysis track, 2020.08)
+ 
+* Datacon Security Challenge: **3rd Prize**. (Encrypt Traffic Analysis track, 2020.08)
 
 * National Cybersecurity Competition for College: **1st Prize in 639 teams**. (2019.07)
 
 
 ## Project
 
-* **[2023-KY\*]**: Network-Traffic Security Observability in Cooperative Context.
+* 2023 Network Traffic Observability in Cooperative Context.
 
-* **[2021-YFB\*]**: Threat Perception in Encrypted Traffic part (sub-topic).
+* 2021 Threat Perception in Encrypted Traffic.
 
-* **[2019-XD]**: ChainShield: Formal verification of Smart-Contract Vulnerability.
+* 2019 ChainShield: Formal verification of Smart Contract Vulnerability.
